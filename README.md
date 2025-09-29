@@ -40,7 +40,9 @@ This theme adapts the modern and minimal design of Metropolis to the **KAIST col
 
 ## 📷 Preview
 
-Example slides using this theme are available in demo.pdf
+Example slides using this theme are available in [demo.pdf](demo.pdf).
+
+![Preview of KAIST Metropolis Theme](demo.png)
 
 ## 📜 License
 
